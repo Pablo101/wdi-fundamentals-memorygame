@@ -8,15 +8,9 @@ h1 {
 	letter-spacing: 1px;
 	margin: 0;
 }
-
-header {
-	font-family: "Raleway", sans-serif;
-	background-color: #F15B31;
-	color: #FFFFFF;
-	padding: 30px 20px;
-	border-spacing: 0px;
+.hello{
+	color:white;
 }
-
 a {
 	font-family: "Raleway", sans-serif;
 	color: #F15B31;
@@ -28,6 +22,17 @@ a {
 	margin: 10px 20px;
 	word-spacing: 50px;
 	border-style: 2px solid transparent;
+}
+
+nav{
+	color:white;
+}
+header {
+	font-family: "Raleway", sans-serif;
+	background-color: #F15B31;
+	color: #FFFFFF;
+	padding: 30px 20px;
+	border-spacing: 0px;
 }
 
 a:hover {
@@ -73,7 +78,6 @@ footer {
 	text-transform: uppercase;
 	padding: 0px 20px;
 	background-color: #0D2C40;
-	color: white;
 	font-size: 14px;
 	letter-spacing: .08em;
 	font-weight: 500;
